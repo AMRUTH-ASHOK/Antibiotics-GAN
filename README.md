@@ -1,2 +1,3 @@
 # Antibiotics-GAN
-AI-based pipeline for de novo Antibiotic design using Generative Adversarial Networks (GANs)
+This paper presents an innovative AI-based pipeline for de novo Antibiotic design using Generative Adversarial Networks (GANs) that aims to significantly reduce production time and costs. By training the GAN on a large dataset of existing compounds, it can generate novel antibiotic candidates that adhere to the patterns of effective antibiotics. This approach offers faster time-to-market, lower costs, and the potential for discovering more effective antibiotics. The proposed pipeline represents a departure from traditional antibiotic discovery methods and could help address the growing threat of antibiotic resistance, potentially saving countless lives around the world.
+
